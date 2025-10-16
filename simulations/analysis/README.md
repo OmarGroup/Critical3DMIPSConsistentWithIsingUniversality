@@ -1,0 +1,1 @@
+These are examples to run the analysis for HOOMD-BLUE type data, extracting properties such as Binder cumulant, susceptibility, etc. One can also write script to analysis other types of properties based on these examples.
