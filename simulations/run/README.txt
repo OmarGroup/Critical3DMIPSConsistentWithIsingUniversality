@@ -1,1 +1,0 @@
-This is the minimal example to run the HOOMD-BLUE simulation in the manuscript.
